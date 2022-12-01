@@ -1,0 +1,3 @@
+Windows telnet client
+python requests package
+Python
