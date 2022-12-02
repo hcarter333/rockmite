@@ -1,3 +1,4 @@
 Windows telnet client
 python requests package
+python import telnetlib
 Python
