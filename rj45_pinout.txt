@@ -1,0 +1,9 @@
+Proposed pinout for Rockmite RJ-45 breakout board project
+
+Pin       Direction?      Description
+1         User->Radio     Radio Power, Typically AA supplied 12 V (aka  13.8 V)
+2         User->Radio     Keyer-speed/Band-adjust
+3         Common          Power ground
+4         Radio->User     Headphone Left Audio
+5         User->Radio     Di (Morse code key)
+6         User->Radio     Da (Morse code key)
